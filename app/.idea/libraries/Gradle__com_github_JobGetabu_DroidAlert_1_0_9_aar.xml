@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.JobGetabu:DroidAlert:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a745687f4471eac119fc68a9238f8a5/DroidAlert-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a745687f4471eac119fc68a9238f8a5/DroidAlert-1.0.9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.JobGetabu/DroidAlert/1.0.9/84925396f9b673c358db991bd7d00e899fffd972/DroidAlert-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
